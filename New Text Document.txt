@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Embedded Style Sample</title>
+    <style type="text/css">
+      h1{
+        color: #0000FF;
+      }
+      h2{
+        color: #00CCFF;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Embedded Style testing</h1>
+    <h2>Next Line</h2>
+  </body>
+</html>
